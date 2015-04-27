@@ -9,7 +9,7 @@ PDF compiler accepts multiple input PDFs turns them into one PDF.
 * [PyPDF2](https://github.com/mstamy2/PyPDF2)
 
 ##Usage
-PDF-Compliler must be reference run with Python:
+PDF-Compliler must be run with Python:
 
 ```
 $ python3 ./main.py
